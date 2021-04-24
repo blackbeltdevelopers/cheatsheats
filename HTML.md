@@ -1,5 +1,5 @@
 # INDEX
-- [A Simple HTML Document](#A%20Simple%20HTML%20Document)
+- [A_Simple_HTML_Document](#A_Simple_HTML_Document)
 ___
 <br><br><br>
 
@@ -12,7 +12,7 @@ ___
 ___
 <br><br><br>
 
-# A Simple HTML Document
+# A_Simple_HTML_Document
 ```HTML
 <!DOCTYPE html>
     <html>

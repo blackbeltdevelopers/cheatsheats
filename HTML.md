@@ -10,9 +10,11 @@ ___
     - hyper text is text which contains links to other texts
     - you can think of markup as a way to display text in certain ways like in chat apps we type : \*bold text\* 
 - HTML is the standard markup language for creating Web pages
-- It consists of series of elements that tell the browser how to display the content: 
-<!-- ![](element-tags-attr-plus-hr.jpg) -->
-_PS: HTML elements do more than just displaying text_
+- It consists of series of elements that tell the browser how to display the content
+- _Of Course HTML does more than just showing text (and that's the fun part)_
+<br><br>
+### HTML elements in a nutshell :
+![HTML elements in a nutshell](https://raw.githubusercontent.com/blackbeltdevelopers/cheatsheats/main/assets/md-pics/html-element.jpg)
 ___
 <br><br><br>
 

@@ -1,18 +1,22 @@
 # INDEX
-- [A Simple HTML Document](#l1)
+- [What Is HTML](#l1)
+- [A Simple HTML Document](#l2)
 ___
 <br><br><br>
 
 
-# What Is HTML?
-- Hyper Text Markup Language
-- It is the standard markup language for creating Web pages
-- HTML consists of a series of elements that tell the browser how to display the content: 
+# <span id="l1">What Is HTML</span>
+- HTML stands for Hyper Text Markup Language
+    - hyper text is text which contains links to other texts
+    - you can think of markup as a way to display text in certain ways like in chat apps we type : \*bold text\* 
+- HTML is the standard markup language for creating Web pages
+- It consists of series of elements that tell the browser how to display the content: 
 <!-- ![](element-tags-attr-plus-hr.jpg) -->
+_PS: HTML elements do more than just displaying text_
 ___
 <br><br><br>
 
-# <span id="l1">A Simple HTML Document</span>
+# <span id="l2">A Simple HTML Document</span>
 ```HTML
 <!DOCTYPE html>
     <html>

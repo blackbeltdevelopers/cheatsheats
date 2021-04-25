@@ -1,11 +1,13 @@
 # INDEX
 - [What Is HTML](#l1)
 - [A Simple HTML Document](#l2)
+- [Basic Elements](#l3)
 ___
 <br><br><br>
 
 
 # <span id="l1">What Is HTML</span>
+- HTML is the main language for building websites. You can't have a website without html _even websites builders_ can't do the job without html. In fact you can build a website depending on HTML solely
 - HTML stands for Hyper Text Markup Language
     - hyper text is text which contains links to other texts
     - you can think of markup as a way to display text in certain ways like in chat apps we type : \*bold text\* 
@@ -71,7 +73,7 @@ ___
 ___
 <br><br><br>
 
-# Basic Elements
+# <span id="l3">Basic Elements</span>
 
 ### links
 

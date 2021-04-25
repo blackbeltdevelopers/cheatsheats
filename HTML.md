@@ -38,11 +38,10 @@ ___
 
 
 # <span id="l1">What Is HTML</span>
-- HTML is the main language for building websites. You can't have a website without html _even websites builders_ can't do the job without html. In fact you can build a website depending on HTML solely
+- HTML is the main language for building websites. You can't have a website without html _even websites builders_ can't do the job without html. In fact you can build a website depending on HTML solely and thus HTML is the standard markup language for web pages
 - HTML stands for Hyper Text Markup Language
     - hyper text is text which contains links to other texts
-    - you can think of markup as a way to display text in certain ways like in chat apps we type : \*bold text\* 
-- HTML is the standard markup language for creating Web pages
+    - you can think of markup as a way to display text in certain ways like in chat apps we type : \*bold text\*
 - It consists of series of elements that tell the browser how to display the content
 - _Of Course HTML does more than just showing text (and that's the fun part)_
 <br><br>

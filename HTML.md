@@ -53,15 +53,15 @@ ___
 # <span id="l2">A Simple HTML Document</span>
 ```HTML
 <!DOCTYPE html>
-    <html>
-        <head>
-            <title>Awesome Title</title>
-        </head>
-        <body>
-            <h1>I love html</h1>
-            <p>Not creative I know XD</p>
-        </body>
-    </html>
+<html>
+    <head>
+        <title>Awesome Title</title>
+    </head>
+    <body>
+        <h1>I love html</h1>
+        <p>Not creative I know XD</p>
+    </body>
+</html>
 ```
 ### DOCTYPE
 - Doctype stands for Document Type Declaration

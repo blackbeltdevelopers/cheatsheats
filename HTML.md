@@ -23,7 +23,7 @@ Whatever you type in the search bar and hit enter there are 2 scenarios for it:
 
 1) typing the domain name <br> when you type the domain name of the site you want to visit your browser sends an HTTPS request to the site servers then they send back the HTML code that makes up the home page (or the page you requested) this code gets renderd via the browser rendering engine and thus you get the desired result <br>
 
-2) searching via search engines like Google which is the same process like the first case scenario except that Google searches the web in advance to show you all relevant results for you to choose from
+2) searching via search engines like Google which is the same process like the first case scenario except that Google scans the web in advance to show you all relevant results for you to choose from
 
 <br>
 

@@ -14,13 +14,14 @@ ___
 
 When you head for the browser search bar and type in the domain name for the site you wanna visit and hit enter.. What happens behind the scenes?
 
-<br>
 
 1) as soon as you hit enter your browser sends a (https) request to the site servers for the data of the web page you enterd its URL
 
 2) the servers respond and send back the data for the target page _and this data which is HTML code_ makes up the web page
 
 3) the rendering engine of the browser renders HTML code and thus you get your desired page 
+
+<br>
 
 ### We'll learn how to build websites using HTML
 

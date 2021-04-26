@@ -46,7 +46,7 @@ ___
 - _Of Course HTML does more than just showing text (and that's the fun part)_
 <br><br>
 ### HTML elements in a nutshell :
-![HTML elements in a nutshell](https://raw.githubusercontent.com/blackbeltdevelopers/cheatsheats/main/assets/md-pics/html-element.jpg)
+<span id="html-element">![HTML elements in a nutshell](https://raw.githubusercontent.com/blackbeltdevelopers/cheatsheats/main/assets/md-pics/html-element.jpg)</span>
 ___
 <br><br><br>
 
@@ -80,13 +80,24 @@ ___
 
 - It's a container for metadata (later topic but for now it's known as "data about data")
 - Anything that goes inside the head element is not displayed on the page
-- the title element inside is for the page (browser tab) title
+<br>
+
+### title
+
+- Want to give your web page a custom "title"? simple just use the "title" tag
+- this is the page (browser tab) title
 <br>
 
 ### body
 
 - it defines the document body which is..
 - A container for all the visible contents, such as headings (like h1), paragraphs (like p), images, hyperlinks (links), etc
+<br>
+
+### p
+
+- just a simple tag for holding text in an organized way which can be stylized later using _CSS_ (like changing the color)
+- most browsers display paragraphs with a vertical gap between each paragraph, nicely breaking up the text.
 <br>
 
 ### now take note
@@ -103,12 +114,13 @@ ___
 
 # <span id="l3">Basic Elements</span>
 
-### links
+### html, head, title, body, p
 
-- external
-```HTML
-<a href="https://www.youtube.com/channel/UC4tEB93QVPiiFWasqEhO7_A" target="_blank">
-     BlackBelters
-</a>
-```
+We've already discuess those elements in [Basic HTMl page structure](#l2) section
+<br>
 
+### h1~h6 _aka section headings_
+
+- Headings let you break up your page content into readable chunks. They work much like headings and subheadings in a book or a report
+- as a challenge (simple one ofc lol) give it a try and write some headings elements (or all the six ones!) and see how it will look on your browser [_for a refresher look up the image_](#html-element)
+<br>

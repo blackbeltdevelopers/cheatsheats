@@ -3,6 +3,7 @@
 - [What Is HTML](#l1)
 - [Basic HTMl page structure](#l2)
 - [Basic Elements](#l3)
+<!-- - find "later topic" -->
 ___
 <br><br><br>
 
@@ -39,10 +40,13 @@ ___
 
 # <span id="l1">What Is HTML</span>
 - HTML is the main language for building websites. You can't have a website without html _even websites builders_ can't do the job without html. In fact you can build a website depending on HTML solely and thus HTML is the standard markup language for web pages
+
 - HTML stands for Hyper Text Markup Language
     - hyper text is text which contains links to other texts
     - you can think of markup as a way to display text in certain ways like in chat apps we type : \*bold text\*
+
 - It consists of series of elements that tell the browser how to display the content
+
 - _Of Course HTML does more than just showing text (and that's the fun part)_
 <br><br>
 ### HTML elements in a nutshell :
@@ -64,46 +68,57 @@ ___
 ```
 ### DOCTYPE
 - Doctype stands for Document Type Declaration
+
 - It informs the web browser about the type and version of HTML used in building the web document
+
 - This helps the browser to handle and load it properly
+
 - Each version of HTML has its own rules. The example above is for HTML5
 <br>
 
 ### html _tag_
 
 - All web pages start with the html element As it's used as a container for all of the HTML of an entire document.
+
 - It’s also called the root element because it’s at the root of the elements tree that makes up a web page
+
 - Usage: structural
 <br>
 
 ### head
 
 - It's a container for metadata (later topic but for now it's known as "data about data")
+
 - Anything that goes inside the head element is not displayed on the page
 <br>
 
 ### title
 
 - Want to give your web page a custom "title"? simple just use the "title" tag
+
 - this is the page (browser tab) title
 <br>
 
 ### body
 
 - it defines the document body which is..
+
 - A container for all the visible contents, such as headings (like h1), paragraphs (like p), images, hyperlinks (links), etc
 <br>
 
 ### p
 
 - just a simple tag for holding text in an organized way which can be stylized later using _CSS_ (like changing the color)
+
 - most browsers display paragraphs with a vertical gap between each paragraph, nicely breaking up the text.
 <br>
 
 ### now take note
 
 - hrml tags does not get displayed on the page but rather tells the browser information how to display the text and that's what a markup language does
+
 - in the past a writer would for example underline a word to tell the printing agency that this word is to be printed italic
+
 - html tags has other information too other than the render style
 <br>
 
@@ -114,13 +129,47 @@ ___
 
 # <span id="l3">Basic Elements</span>
 
+### first understand block-level and inline elements
+
+- Block-level elements, such as [div](#div), [h1](#section-headings), and p, are elements that are designed to hold relatively large or stand-alone blocks of content, such as paragraphs of text
+
+-  A block-level element always starts on a new line
+
+- Inline elements, such as [span](#span), a, and img, are designed to hold smaller pieces of content — such as a few words or a sentence — within a larger block of content
+
+- Adding an inline element doesn’t cause a new line to be created
+
+- Block-level elements can contain inline elements, but inline elements can’t contain 
+<br>
+
 ### html, head, title, body, p
 
 We've already discuess those elements in [Basic HTMl page structure](#l2) section
 <br>
 
-### h1~h6 _aka section headings_
+### <span id="section-headings">h1~h6 _aka section headings_</span>
 
 - Headings let you break up your page content into readable chunks. They work much like headings and subheadings in a book or a report
+
+- h1 is written only once in the page according to layouts standars which is the hero text _(later topic)_
+
+- typically you won’t need to use more than h1, h2 and h3, unless your page is very long and complex
+
 - as a challenge (simple one ofc lol) give it a try and write some headings elements (or all the six ones!) and see how it will look on your browser [_for a refresher look up the image_](#html-element)
+<br>
+
+### <span id="div">div</span>
+- Document "__div__ ision" 
+- A block-level generic container that you can use to add more structure to your page content. For example, you might group several paragraphs or headings that serve a similar purpose together inside a div element. Typically, div elements are used for things like:
+    - Page headers and footers
+    - Columns of content and sidebars
+    - Highlighted boxes within the text flow
+    - Areas of the page with a specific purpose, such as ad spots
+    - Image galleries
+<br>
+
+### <span id="span">span</span>
+- An inline container for content &nbsp; (we'll discuss inline and block-level elements in a later topic but for now think of span as way to select a certain word or more in a paragraph for styling or other purposes)
+
+- The span element is similar to div in that it’s used to add structure to your content. The difference is that div is a block-level element, while span is an inline element:
 <br>

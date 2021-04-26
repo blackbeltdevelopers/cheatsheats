@@ -1,7 +1,7 @@
 # INDEX
 - [Before You learn web development](#l0)
 - [What Is HTML](#l1)
-- [A Simple HTML Document](#l2)
+- [Basic HTMl page structure](#l2)
 - [Basic Elements](#l3)
 ___
 <br><br><br>
@@ -50,16 +50,15 @@ ___
 ___
 <br><br><br>
 
-# <span id="l2">A Simple HTML Document</span>
+# <span id="l2">Basic HTMl page structure</span>
 ```HTML
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Awesome Title</title>
+        <title>...</title>
     </head>
     <body>
-        <h1>I love html</h1>
-        <p>Not creative I know XD</p>
+        <p>this is normal text displayed on the page</p>
     </body>
 </html>
 ```
@@ -72,13 +71,14 @@ ___
 
 ### html _tag_
 
-- All web pages start with the html element
-- It’s also called the root element because it’s at the root of the tree of elements that make up a web page
+- All web pages start with the html element As it's used as a container for all of the HTML of an entire document.
+- It’s also called the root element because it’s at the root of the elements tree that makes up a web page
+- Usage: structural
 <br>
 
 ### head
 
-- It's a container for metadata (data about data)
+- It's a container for metadata (later topic but for now it's known as "data about data")
 - Anything that goes inside the head element is not displayed on the page
 - the title element inside is for the page (browser tab) title
 <br>
@@ -97,9 +97,7 @@ ___
 <br>
 
 ### Structure Visualization
-
-- node tree
-- w3
+![](https://raw.githubusercontent.com/blackbeltdevelopers/cheatsheats/main/assets/md-pics/basic-html-page-Visualization.jpg)
 ___
 <br><br><br>
 

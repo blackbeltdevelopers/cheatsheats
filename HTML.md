@@ -1,5 +1,5 @@
 # INDEX
-- [Before You learn HTML](#l0)
+- [Before You learn web development](#l0)
 - [What Is HTML](#l1)
 - [A Simple HTML Document](#l2)
 - [Basic Elements](#l3)
@@ -7,27 +7,26 @@ ___
 <br><br><br>
 
 
-# <span id="l0">Before You learn HTML</span>
+# <span id="l0">Before You learn web development</span>
 
 
 ### Why do you use a web browser?
 
-When you want to go to youtube for example but you don't have their app installed on your pc you go for the browser and access it from there but what happens behind the scenes anyway?
+When you head for the browser search bar and type in the domain name for the site you wanna visit and hit enter.. What happens behind the scenes?
 
 <br>
 
+1) as soon as you hit enter your browser sends a (https) request to the site servers for the data of the web page you enterd its URL
 
-### Browsers Search Bars
+2) the servers respond and send back the data for the target page _and this data which is HTML code_ makes up the web page
 
-Whatever you type in the search bar and hit enter there are 2 scenarios for it:
+3) the rendering engine of the browser renders HTML code and thus you get your desired page 
 
-1) typing the domain name <br> when you type the domain name of the site you want to visit your browser sends an HTTPS request to the site servers then they send back the HTML code that makes up the home page (or the page you requested) this code gets renderd via the browser rendering engine and thus you get the desired result <br>
-
-2) searching via search engines like Google which is the same process like the first case scenario except that Google scans the web in advance to show you all relevant results for you to choose from
+### We'll learn how to build websites using HTML
 
 <br>
 
-### REF
+### REF:
 
 _note that there's sth called DNS process that happens in the middle but that's another topic_
 <br>

@@ -1,7 +1,7 @@
 # INDEX
 - [Before You learn web development](#l0)
 - [What Is HTML](#l1)
-- [Basic HTMl page structure](#l2)
+- [Basic HTML page structure](#l2)
 - [Basic Elements](#l3)
 <!-- - find "later topic" -->
 ___

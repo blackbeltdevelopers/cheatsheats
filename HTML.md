@@ -146,7 +146,7 @@ ___
 
 -  A block-level element always starts on a new line
 
-- Inline elements, such as [span](#span), [a](#links), and img, are designed to hold smaller pieces of content — such as a few words or a sentence — within a larger block of content
+- Inline elements, such as [span](#span), [a](#links), and [img](#img), are designed to hold smaller pieces of content — such as a few words or a sentence — within a larger block of content
 
 - Adding an inline element doesn’t cause a new line to be created
 
